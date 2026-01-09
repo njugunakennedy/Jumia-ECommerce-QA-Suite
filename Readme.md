@@ -48,9 +48,8 @@ This project challenges the idea that QA is just "checking boxes." By using the 
 
 ## 👤 Author
 **Kennedy Njuguna Gicini**
-*   *Technical QA Engineer*
-*   [LinkedIn Profile Link]
-*   [Email Address]
+*   *Data Scientist @Twoklin | Python | SQL | Power BI | MLOps | Business Analytics*
+*   [https://www.linkedin.com/in/kennjuguna/]
 
 ---
 *Disclaimer: This project is for educational and portfolio purposes only. I am not affiliated with Jumia.*
